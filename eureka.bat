@@ -1,0 +1,1 @@
+cmd /k "cd C:\csi\Servers\eureka-server & mvn spring-boot:run

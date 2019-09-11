@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CSI-SVR-EUREKASV-01
+  cloud:
+    config:
+      uri: ${url.config-server}
